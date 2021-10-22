@@ -1,0 +1,82 @@
+/*
+website colors
+#C3073f - red
+#1a1a1d - black
+#bebebe - light grey
+#f1f1f1 - white
+*/
+
+
+.navbar {
+    background-color: #1a1a1d;
+    float:initial;
+    display: block;
+    padding: 8px;
+    background-color: #dddddd;    
+    size: 10px;
+    }
+
+span{
+    padding: 69px
+}
+
+.hero-container {
+
+    background-color: white;
+    background:
+    url(https://alexedmans.com/wp-content/uploads/2017/03/Sports.jpg);
+    height: 25%;
+	background-position: center;
+	background-repeat: no-repeat;
+	position: relative;
+}
+
+.hero-img-text{
+    margin-top: 25px;
+}
+
+.account{
+    text-align: right;
+    color: black
+}
+
+.account-bar{
+    background-color: #C3073f;
+    text-align: right;
+}
+
+.hero-img-text{
+    padding-top: 250px;
+	text-align: center;
+	color: rgb(0, 0, 0);
+}
+
+body{
+    margin: 0%;
+}
+
+.season-logo{
+    text-align: center;
+}
+
+.fall{
+    color: orangered;
+}
+
+.winter{
+    color: blue
+}
+
+.spring{
+    color: green;
+}
+
+.fall, .winter, .spring{
+    padding: 10px;
+    font-size: 50px;
+}
+
+.sports-hub-logo{
+    width: 50px;
+    height: 50px;
+}
